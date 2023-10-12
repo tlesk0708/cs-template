@@ -1,0 +1,2 @@
+# cs-template
+mytemplate
